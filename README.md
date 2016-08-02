@@ -1,5 +1,9 @@
 ## Northwind@MongoDB ##
 
+### Changes made by me
+Added support to run in windows via batch script.
+Fixed LazyQuotes issue in the csv file.
+
 ### What it is
 
 * Just a simple data dump from SQL's Northwind database to a CSV
